@@ -59,3 +59,4 @@ division.addEventListener('click', function() {
         document.getElementById("calculation-result").textContent = error.message;
     }
 });
+
